@@ -1,2 +1,3 @@
-# html-css-basico-paginaCaptura
-Curso Desenvolvimento Web do Igor Guimarães. Primeira página criada, para captação de pessoas. 
+# Curso Desenvolvimento Web - Igor Oliveira
+
+Curso Desenvolvimento Web do Igor Oliveira. Primeira página criada para captação de pessoas.
